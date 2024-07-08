@@ -1,0 +1,71 @@
+.background {
+    background-image: url('images/mountain.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container h1 {
+    font-family: 'Acme', sans-serif;
+    font-size: 3rem;
+}
+
+.settings {
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.setting_content {
+    display: flex;
+    gap: 1rem;
+}
+
+.setting_content input {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+button#dobButton {
+    border-radius: 50px;
+}
+
+input#dobInput {
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: #000000;
+    outline: 1px solid #cccccc;
+}
+
+.hide {
+    display: none;
+}
+
+.time-container {
+    font-family: 'Acme', sans-serif;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+div.center > h1 {
+    text-align: center;
+}
+
+div.time-container > h2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
