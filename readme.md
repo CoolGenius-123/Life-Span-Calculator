@@ -2,7 +2,7 @@
 
 This project is a simple yet powerful web application that allows users to input their date of birth and then calculates and displays the amount of time that has passed since that date in various units (years, months, weeks, days, hours, minutes, and seconds).
 
-![Project Image](https://drive.google.com/file/d/1u767JVC9KfyEKFhWDR2TtmFohNmQVIF5/view?usp=sharing)
+![Project Image](https://drive.google.com/uc?export=download&id=1u767JVC9KfyEKFhWDR2TtmFohNmQVIF5)
 
 ## Getting Started
 
